@@ -83,7 +83,9 @@ minima:
       # instance: indieweb.social
       url: "https://indieweb.social/@cali"
       icon: mastodon
-#      url: "https://github.com/jekyll/minima"
+    - title: Orcid
+      url: "https://orcid.org/0000-0002-3331-0940"
+      icon: orcid
 #     - title: Jekyll at X (formerly Twitter)
 #       icon: x-twitter
 #       url: "https://x.com/jekyllrb"
