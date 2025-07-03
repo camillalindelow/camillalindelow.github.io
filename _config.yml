@@ -79,9 +79,10 @@ minima:
 #       * url      Full URL of social profile.
   social_links:
     - title: Mastodon
-      - username: cali
-        instance: indieweb.social
-#      icon: mastodon
+      # username: cali
+      # instance: indieweb.social
+      url: "https://indieweb.social/@cali"
+      icon: mastodon
 #      url: "https://github.com/jekyll/minima"
 #     - title: Jekyll at X (formerly Twitter)
 #       icon: x-twitter
